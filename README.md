@@ -1,6 +1,6 @@
 # PDF Merger
 
-A simple, browser-based PDF merging tool built with HTML, JavaScript, and Bootstrap.
+A simple, browser-based PDF merging tool that can merge up to 20 PDF into one PDF. I built first with Python but then turned into a with HTML, JavaScript, and Bootstrap.
 
 Author: Renata Baldissara-Kunnela
 
